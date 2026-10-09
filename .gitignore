@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+CMakeFiles/
+build-deb/
+dist/
+*.deb
+.venv/
+venv/
+*.log
